@@ -1,11 +1,20 @@
 # Employee-Tracker
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Table of Contents
+  - [User Story](#userstory)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
+  - [Repository](#repository)
   - [License](#license)
+
+  ## User Story
+  ```
+As a business owner
+I want to be able to view and manage the departments, roles, and employees in my company
+So that I can organize and plan my business
+```
 
   ## Description
  With This Application, A User Can:
@@ -28,17 +37,22 @@
 
   ## Usage
 
-  - Install npm init -y to create a new .json file
-  
-  - Run npm i
-  - Run npm i inquirer
-  - Run npm i mysql
-  - Run node server.js
+  - Install ```npm init -y``` to create a new .json file
+
+  - Run ```npm i```
+  - Run ```npm i inquirer```
+  - Run ```npm i mysql```
+  - Run ```node server.js```
   - Make sure server.js is connected to SQL before continuing
   - Run through prompts as required
 
   ## Contributing
-  No contributions needed
+  No front-end files required
+
+  ## Repository
+  To check out my repo, click the link below:
+  - [My Repository](https://github.com/alexmin94/Employee-Tracker)
+
 
   ## Questions
   If you have any question, feel free to contact me directly at aminyakov94@gmail.com
