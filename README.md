@@ -3,6 +3,7 @@
   ## Table of Contents
   - [User Story](#userstory)
   - [Description](#description)
+  - [Demo](#demo)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -27,6 +28,12 @@ So that I can organize and plan my business
 - Add a role, an employee or a department.
 - Remove a role, an employee or a department.
 - View the total utilized budget of a department in other words and the combined salaries of all employees in that department.
+
+  ## Demo 
+
+  - [Click for Live Demo](https://drive.google.com/file/d/1Akg5L0MZWSeSDSdsr9US2ExDlt7FkPtx/view)
+
+
 
 
   ## Installation
